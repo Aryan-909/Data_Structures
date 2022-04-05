@@ -1,4 +1,4 @@
-# Data_Structures
-This repository is made to implement some popular algorithms and Data_Structures in various languages, as a part of my journey to become an engineer
+# Python_steps
+This repository is to showcase beginner python codes and projects i made on my journey
 
-This is my second commit
+Some of the code in the file is project from popular courses
